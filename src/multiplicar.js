@@ -3,4 +3,3 @@ function multiplicar(a, b) {
   }
   
 export default multiplicar;
-  
